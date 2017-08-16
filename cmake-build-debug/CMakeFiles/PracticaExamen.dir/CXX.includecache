@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ivand/CLionProjects/PracticaExamen/DataFile.cpp
+DataFile.h
+C:/Users/ivand/CLionProjects/PracticaExamen/DataFile.h
+
+C:/Users/ivand/CLionProjects/PracticaExamen/DataFile.h
+stdio.h
+-
+
+C:/Users/ivand/CLionProjects/PracticaExamen/Registro.cpp
+Registro.h
+C:/Users/ivand/CLionProjects/PracticaExamen/Registro.h
+
+C:/Users/ivand/CLionProjects/PracticaExamen/Registro.h
+DataFile.h
+C:/Users/ivand/CLionProjects/PracticaExamen/DataFile.h
+string.h
+-
+iostream
+-
+
+C:/Users/ivand/CLionProjects/PracticaExamen/main.cpp
+iostream
+-
+DataFile.h
+C:/Users/ivand/CLionProjects/PracticaExamen/DataFile.h
+Registro.h
+C:/Users/ivand/CLionProjects/PracticaExamen/Registro.h
+string.h
+-
+

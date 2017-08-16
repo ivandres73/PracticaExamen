@@ -1,0 +1,3 @@
+C:/Users/ivand/CLionProjects/PracticaExamen/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ivand/CLionProjects/PracticaExamen/cmake-build-debug/CMakeFiles/PracticaExamen.dir
+C:/Users/ivand/CLionProjects/PracticaExamen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
